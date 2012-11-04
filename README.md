@@ -1,4 +1,5 @@
 meteor-minicolors
 =================
 
-jQuery color picker for meteor
+jQuery minicolors for meteor
+https://github.com/claviska/jquery-miniColors
