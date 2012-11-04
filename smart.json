@@ -1,0 +1,10 @@
+{
+  "name": "minicolors",
+  "description": "jQuery color picker for meteor",
+  "homepage": "https://github.com/erobit/meteor-minicolors",
+  "author": "Eric Robitaille <eric@vianet.ca>",
+  "version": "0.0.1",
+  "git": "https://github.com/erobit/meteor-minicolors.git",
+  "packages": {
+  }
+}
